@@ -1,0 +1,11 @@
+h1{
+    background-color: black;
+    margin: 23px;
+    padding: 40px;
+    color: white;
+}
+.this_class{
+    color:  purple;
+    margin: 50px;
+    padding: auto;
+}
